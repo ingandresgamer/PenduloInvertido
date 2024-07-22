@@ -8,7 +8,7 @@ El simulador emplea las ecuaciones no lineales encontradas empleando el metodo d
 # Las ecuaciónes del Modelo son 
 
 
-![Imagen del Pendulo](EcuacionesModelo.png "This is a sample image.")
+![Imagen del Pendulo](EcuacionesModelo.PNG "This is a sample image.")
 
 # Instrucciones 
 
