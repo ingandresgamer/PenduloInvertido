@@ -7,11 +7,8 @@ El simulador emplea las ecuaciones no lineales encontradas empleando el metodo d
 
 # Las ecuaciónes del Modelo son 
 
-$ \dot{y}  = v_y \\
-  \dot{\theta}  = \omega \\
-  \dot{v}_y  =  \frac{f_u+f_d-ky+m_2lsin(\theta)\omega^2}{m(\theta)}-\frac{m_2l^2\left(gm_2sin(\theta)cos(\theta)+2f_dcos^2(\theta)\right)}{J_bm(\theta)} \\
-   \dot{\omega}  =\frac{m_1+m_1}{J_bm(\theta)}\left(2f_dl cos(\theta)+gm_2l sin(\theta) \right) - \frac{m_2 cos(\theta)}{J_bm(\theta)} \left( m_2l sin(\theta)\omega^2l+f_dl+f_ul-kyl \right)$
 
+![Imagen del Pendulo](EcuacionesModelo.png "This is a sample image.")
 
 # Instrucciones 
 
