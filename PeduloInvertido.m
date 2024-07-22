@@ -9,7 +9,7 @@ k=0.15; %% [N/m] Costante del Resorte
 l=0.2; %% [m] Longitud del del pivot al centro de masa 
 g=9.81; %% [m/s^2] Gravedad
 %% Condiciones iniciales
-x0=[0;pi;0;0];
+x0=[0;0;0;0];
 %% Parametros de la Perturbacion
 Td=2; %% Tiempo en donde Inicia 
 DeltaTd=0.25; %% Duración de la perturbación. 
